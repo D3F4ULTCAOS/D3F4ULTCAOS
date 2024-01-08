@@ -1,16 +1,44 @@
-### Hi there 👋
 
-<!--
-**D3F4ULTCAOS/D3F4ULTCAOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> <br/> </h2> 
+<br><br/>
 
-Here are some ideas to get you started:
+              ,----------------,             ,---------,           
+        ,-----------------------,          ,"        ,"|           
+      ,"                      ,"|        ,"        ,"  |           
+     +-----------------------+  |      ,"        ,"    |           
+     |  .-----------------.  |  |     +---------+      |           
+     |  |                 |  |  |     | -==----'|      |           
+     |  |  HACKED         |  |  |     |         |      |           
+     |  |       YOU       |  |  |     |`---=    |      |           
+     |  |           XD    |  |  |  |,/|==== ooo |   ;  |         
+     |  |                 |  |  |  // |(((( [33]|    ,"            
+     |  `-----------------'  |," .;'| |((((     |  ,"              
+     +-----------------------+  ;;  | |         |,"     
+        /_)______________(_/  //'   | +---------+                  
+        ___________________________/___  `,                             
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> <br/> </h2> 
+<br><br/>
+
+<div align="left">
+
+User of GNU/Linux (Debian) 🐧
+
+Passion for Offensive Security and Hacking 🐀️ 🚩
+
+Always seeking evolution 🚀
+
+<h2 align="center"> <br/> </h2> 
+<div align="left">
+  
+ *SKILLS*
+ 
+<div style="display: inline_block">
+<img align="center" alt="Logo-Bash" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+<img align="center" alt="Logo-Python" height="50" width=default src="https://img.icons8.com/ios-filled/2x/sql.png">
+<img align="center" alt="Logo-Python" height="50" width=default src="https://isocpp.org/assets/images/cpp_logo.png">
+</div> 
+
+<br>
+
+<h2 align="center">  </h2> 
